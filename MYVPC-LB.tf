@@ -165,3 +165,4 @@ resource "aws_lb" "prac-lb" {
         Name = "MY-LB"
      }
 }
+
